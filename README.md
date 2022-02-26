@@ -34,7 +34,7 @@ Endpoint |HTTP Method | CRUD Method | Result
 `movies/:id` | DELETE | DELETE | Delete a movie
 
 ## Use
-We can test the API using [curl](https://curl.haxx.se/) or [httpie](https://github.com/jakubroztocil/httpie#installation), or we can use [Postman](https://www.postman.com/)
+The API can be tested using [Postman](https://www.postman.com/)
 
 Httpie is a user-friendly http client that's written in Python. Let's try and install that.
 

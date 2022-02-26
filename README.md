@@ -13,7 +13,12 @@ You can do this by running the command
 python -m venv env
 ```
 
-After this, it is necessary to activate the virtual environment, you can get more information about this [here](https://docs.python.org/3/tutorial/venv.html)
+After this, it is necessary to activate the virtual environment. 
+
+```
+ source env/bin/activate
+```
+Please don't foreget to write the pthon version next to env. suppose you are using python 3.10 then write a command -- source env3.10/bin/activate --. you can get more information about this [here](https://docs.python.org/3/tutorial/venv.html)
 
 You can install all the required dependencies by running
 ```

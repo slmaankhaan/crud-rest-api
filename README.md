@@ -2,8 +2,8 @@
 [Django REST framework](http://www.django-rest-framework.org/) is a powerful and flexible toolkit for building Web APIs.
 
 ## Requirements
-- Python 3.6
-- Django 3.1
+- Python 3.10
+- Django 4.0.2
 - Django REST Framework
 
 ## Installation
